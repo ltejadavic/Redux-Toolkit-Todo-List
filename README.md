@@ -1,3 +1,37 @@
+Redux Toolkit Todo List
+
+This is a simple Todo List application built with React and Redux Toolkit to demonstrate state management using modern Redux practices.
+
+Features:
+
+	•	Add, toggle, and remove todo items.
+	•	State management is handled using Redux Toolkit, which simplifies the Redux setup and reduces boilerplate code.
+	•	The app uses React-Redux for connecting Redux with React components.
+
+Key Concepts:
+
+	•	Redux Toolkit: Simplified store setup with configureStore.
+	•	createSlice: Generates reducers and actions automatically.
+	•	React-Redux Hooks: useSelector and useDispatch for state and actions.
+	•	Immutability: Redux state updates are handled immutably using createSlice.
+
+Getting Started:
+
+	1.	Clone the repository:
+git clone https://github.com/ltejadavic/redux-toolkit-todo-list.git
+
+	2.	Install dependencies:
+npm install
+
+	3.	Start the development server:
+npm start
+
+Technologies Used:
+
+	•	React
+	•	Redux Toolkit
+	•	React-Redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
